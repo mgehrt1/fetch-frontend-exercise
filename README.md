@@ -1,4 +1,4 @@
-# Fetch Frontend Exercise
+# Pawsome Pics (Fetch Frontend Exercise)
 
 ## Running Locally
 

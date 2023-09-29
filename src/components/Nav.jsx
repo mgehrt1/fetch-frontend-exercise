@@ -4,7 +4,7 @@ export default function Nav() {
     return (
         <nav>
             <div className='logo'>
-                Fetch Logo
+                <a href='/'>Pawsome Pics</a>
             </div>
             <div className='nav-options'>
                 <NavOption title='Home' path='/' />

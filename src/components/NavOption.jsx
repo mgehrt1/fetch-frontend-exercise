@@ -1,5 +1,5 @@
-export default function NavOption() {
+export default function NavOption({title, path}) {
     return (
-        <a href=''>Option</a>
+        <a href={path}>{title}</a>
     )
 }

@@ -7,9 +7,9 @@ export default function Nav() {
                 Fetch Logo
             </div>
             <div className='nav-options'>
-                <NavOption />
-                <NavOption />
-                <NavOption />
+                <NavOption title='Home' path='/' />
+                <NavOption title='Gallery' path='gallery' />
+                <NavOption title='Explore' path='explore' />
             </div>
         </nav>
     )
